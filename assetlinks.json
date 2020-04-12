@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "at.ameise.challengetracker.debug",
+    "sha256_cert_fingerprints":
+    ["97:78:74:0B:C6:FE:79:FF:FD:39:12:AA:22:D3:79:B7:E4:8B:45:37:5C:59:23:CA:D7:2A:B1:16:E0:C4:2B:2D"]
+  }
+}]
